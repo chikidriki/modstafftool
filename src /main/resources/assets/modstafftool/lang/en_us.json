@@ -1,0 +1,12 @@
+{
+  "key.modstafftool.freecam": "Toggle Freecam",
+  "key.modstafftool.esp": "Toggle Staff ESP",
+  "key.modstafftool.menu": "Open Moderation Menu",
+  "key.category.modstafftool": "Mod Staff Tool",
+  "modstafftool.gui.title": "Moderation Menu",
+  "modstafftool.gui.target": "Target player:",
+  "modstafftool.gui.ban": "Ban",
+  "modstafftool.gui.mute": "Mute",
+  "modstafftool.gui.tp": "Teleport to",
+  "modstafftool.gui.vanish": "Vanish"
+}
