@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "modstafftool",
+  "version": "${version}",
+  "name": "Mod Staff Tool",
+  "description": "Client-side toolkit for server moderators: freecam, staff ESP, nearby-player HUD, quick moderation GUI and a break/place logger.",
+  "authors": ["you"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.modstaff.tool.ModStaffToolClient"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}
